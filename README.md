@@ -1,5 +1,12 @@
 # SSR Status Page Documentation
 
+## 📸 UI Preview
+
+![screencapture-localhost-3000-statuspage-incident-history-2025-07-09-22_37_56](https://github.com/user-attachments/assets/d61baaf5-9a5d-40ab-bd42-9cba372f87cc)
+![screencapture-localhost-3000-statuspage-uptime-2025-07-09-22_37_45](https://github.com/user-attachments/assets/86b6ef80-2b0e-4e85-b0b5-93b9a16ef3b6)
+![screencapture-localhost-3000-2025-07-09-22_37_34](https://github.com/user-attachments/assets/a73f5723-66c3-4fe4-be0e-046773264766)
+
+
 ## Architecture Diagram
 
 ```mermaid
